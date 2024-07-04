@@ -1,0 +1,45 @@
+/* src/css/Proveedor.module.css */
+.proveedorContainer {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .menuBar {
+    width: 100%;
+    padding: 20px;
+    background-color: #f8f8f8;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  
+  .menuBar h1 {
+    margin-bottom: 20px;
+  }
+  
+  .menuBar ul {
+    list-style: none;
+    padding: 0;
+  }
+  
+  .menuBar ul li {
+    margin-bottom: 10px;
+  }
+  
+  .menuBar ul li a {
+    text-decoration: none;
+    color: #0070f3;
+  }
+  
+  .menuBar ul li a:hover {
+    text-decoration: underline;
+  }
+  
+  .content {
+    margin-top: 20px;
+    width: 100%;
+    max-width: 800px;
+  }
+  

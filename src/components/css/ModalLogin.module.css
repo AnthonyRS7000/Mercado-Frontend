@@ -1,0 +1,32 @@
+/* ModalLogin.module.css */
+
+.modalContainer {
+  background-color: #ffffff;
+  border: 1px solid #e5e7eb;
+}
+
+.modalTitle {
+  color: #1f2937;
+}
+
+.modalInput {
+  border: 1px solid #d1d5db;
+  border-radius: 0.375rem;
+}
+
+.modalButton {
+  background-color: #2563eb;
+  color: #ffffff;
+}
+
+.modalButtonHover {
+  background-color: #1d4ed8;
+}
+
+.modalLink {
+  color: #2563eb;
+}
+
+.modalLinkHover {
+  color: #1d4ed8;
+}
